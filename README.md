@@ -8,5 +8,5 @@ To reproduce the analysis used to generate figures, the following two R scripts 
 Both scripts call functions from the Functions_for_analysis.R script. 
 The starting point should be making sure all the packages that are loaded in the begining of the functions script are installed.
 
-These scripts read in data files that are store on Zenodo so there should be no need to download any additional data.
+These scripts read in data files that are store on [Zenodo](https://zenodo.org/records/14827610) so there should be no need to download any additional data.
 
