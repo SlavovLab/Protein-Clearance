@@ -1,4 +1,4 @@
-# Deg_and_growth
+# Protein-Clearance
 Analysis from Leduc and Slavov (2025): Protein degradation and growth dependent dilution substantially shape mammalian proteomes
 
 To reproduce the analysis used to generate figures, the following two R scripts can be run:
