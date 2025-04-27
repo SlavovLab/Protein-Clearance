@@ -1,4 +1,4 @@
-# Impact of protein degradation and cell growth on mammalian proteomes
+# Impact of protein degradation and cell growth on proteomes
 Analysis from Leduc, *et al.*, *bioRxiv*, 2025, doi: [10.1101/2025.02.10.637566](https://doi.org/10.1101/2025.02.10.637566)
 
 ## Abstract
